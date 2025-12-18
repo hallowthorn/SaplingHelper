@@ -1,2 +1,11 @@
-# SaplingHelper
-Plants Sapling in pot and then waters it making planting and watering saplings faster using user clicks.
+# Sapling Helper
+
+One-click tree sapling creation in RuneLite.
+
+Click a seed:
+- Seed is planted in a filled pot
+- Pot is automatically watered
+
+RuneLite-safe.
+No automation.
+No packets.
